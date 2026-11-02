@@ -1,0 +1,6 @@
+{
+  "name": "DecisionMate – AI-Powered Decision-Making Assistant",
+  "description": "Think Clearly. Choose Confidently. AI-powered personal decision-making assistant with weighted scoring, Devil's Advocate challenges, what-if scenario simulations, and unbiased comparative analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
